@@ -5,3 +5,7 @@
 - I also check the accuracy of the sensors and how their RMSE varies with time.
 
 - In lcs_final_code_p2, I try to correct the measurements of the LCS data using the "NO2_Diffusion_Tubes.xlsx" data
+
+- I have not yet added the data because I am just learning how to use git and have not mastered the use of git lfs yet. But I should be able to add them very soon.
+
+- You can have a look at my presentation to better understand the what I did during this internship
